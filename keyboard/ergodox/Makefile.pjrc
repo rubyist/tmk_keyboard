@@ -116,4 +116,5 @@ micro: all
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all
 
-
+spacemacs: OPT_DEFS += -DKEYMAP_SPACEMACS
+spacemacs: all
